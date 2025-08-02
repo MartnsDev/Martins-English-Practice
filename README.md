@@ -1,6 +1,6 @@
 Criei um site para estudar inglês junto com a v0, anotar o que aprendo, praticar leitura, escuta, escrita e fala, tudo no mesmo ambiente. Então decidi criar o meu próprio site chamado Martins English Practice
 
-Deploy: [MartinsEnglishPractice.com](https://lnkd.in/gRBBrGqA) <br>
+Deploy: [MartinsEnglishPractice.com](martins-english-practice.vercel.app) <br>
 Arquivos no GitHub: [Esse repositorio](https://lnkd.in/gc6e7aQu)
 
 Usei a plataforma V0.dev para montar a estrutura com ajuda da inteligência artificial, e integrei a API do MyMemory como tradutor — simples, gratuito e funcional.
